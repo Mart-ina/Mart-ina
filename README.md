@@ -1,4 +1,4 @@
-### Hi there :octocat:
+### Hi there 🎆:
 
 <div id="header" align="center">
   <img src=https://media.giphy.com/media/dy54LwFL5yNInwMSye/giphy.gif width="200"/>
